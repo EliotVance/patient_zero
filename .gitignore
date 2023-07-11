@@ -1,3 +1,4 @@
 # Comment. The .gitignore file
 
 Logs
+*.exe
