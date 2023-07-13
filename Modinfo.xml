@@ -2,4 +2,8 @@
 <xml>
 	<Name value="JabbaTheHun"/>
 	<!-- (Required) Internal name, like an ID, of the mod. Should be globally unique, like an author prefix + name. Only allowed chars: Numbers, latin letters, underscores, dash -->
+	
+	<Description value="What is this description and where it's gonna show up?"/>
+	<!-- (Optional) More text to show on UIs -->
+	
 </xml>
